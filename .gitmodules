@@ -1,0 +1,3 @@
+[submodule "ext/fatfs"]
+	path = ext/fatfs
+	url = https://github.com/bastien-roucaries/FatFs
