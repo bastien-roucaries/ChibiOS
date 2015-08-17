@@ -1,3 +1,6 @@
 [submodule "ext/fatfs"]
 	path = ext/fatfs
 	url = https://github.com/bastien-roucaries/FatFs
+[submodule "ext/lwip"]
+	path = ext/lwip
+	url = https://github.com/bastien-roucaries/lwip
